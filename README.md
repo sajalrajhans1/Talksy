@@ -29,9 +29,9 @@ A full-stack real-time chat application built with **React Native (Expo Router)*
 ### 🟡 Getting Started & Authentication
 
 <p align="center">
-  <img src="screenshots/talksy-welcome.jpg" width="250" />
-  <img src="screenshots/getting-started.jpg" width="250" />
-  <img src="screenshots/login.jpg" width="250" />
+  <img src="screenshots/14.jpg" width="250" />
+  <img src="screenshots/5.jpg" width="250" />
+  <img src="screenshots/11.jpg" width="250" />
 </p>
 
 ---
@@ -39,9 +39,8 @@ A full-stack real-time chat application built with **React Native (Expo Router)*
 ### 🏠 Home & Conversations
 
 <p align="center">
-  <img src="screenshots/home-direct.jpg" width="250" />
-  <img src="screenshots/home-empty.jpg" width="250" />
-  <img src="screenshots/home-groups.jpg" width="250" />
+  <img src="screenshots/3.jpg" width="250" />
+  <img src="screenshots/12.jpg" width="250" />
 </p>
 
 ---
@@ -49,18 +48,7 @@ A full-stack real-time chat application built with **React Native (Expo Router)*
 ### 💬 Direct Messaging
 
 <p align="center">
-  <img src="screenshots/dm-chat.jpg" width="250" />
-  <img src="screenshots/dm-media.jpg" width="250" />
-  <img src="screenshots/dm-list.jpg" width="250" />
-</p>
-
----
-
-### 👥 Group Messaging
-
-<p align="center">
-  <img src="screenshots/group-chat-1.jpg" width="250" />
-  <img src="screenshots/group-chat-2.jpg" width="250" />
+  <img src="screenshots/6.jpg" width="250" />
 </p>
 
 ---
@@ -68,9 +56,17 @@ A full-stack real-time chat application built with **React Native (Expo Router)*
 ### 🧩 Create Group Flow
 
 <p align="center">
-  <img src="screenshots/create-group-1.jpg" width="250" />
-  <img src="screenshots/create-group-2.jpg" width="250" />
-  <img src="screenshots/create-group-3.jpg" width="250" />
+  <img src="screenshots/2.jpg" width="250" />
+  <img src="screenshots/1.jpg" width="250" />
+  <img src="screenshots/8.jpg" width="250" />
+</p>
+
+---
+
+### 👥 Group Messaging
+
+<p align="center">
+  <img src="screenshots/4.jpg" width="250" />
 </p>
 
 ---
@@ -78,8 +74,8 @@ A full-stack real-time chat application built with **React Native (Expo Router)*
 ### 👤 Profile Management
 
 <p align="center">
-  <img src="screenshots/profile-sanjii.jpg" width="250" />
-  <img src="screenshots/profile-zoro.jpg" width="250" />
+  <img src="screenshots/13.jpg" width="250" />
+  <img src="screenshots/15.jpg" width="250" />
 </p>
 
 ---
