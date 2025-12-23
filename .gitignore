@@ -1,0 +1,17 @@
+# node
+node_modules
+npm-debug.log*
+yarn-error.log*
+
+# env
+.env
+.env.*
+
+# build
+dist
+build
+.expo
+.expo-shared
+
+# OS
+.DS_Store
