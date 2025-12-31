@@ -7,11 +7,16 @@ yarn-error.log*
 .env
 .env.*
 
-# build
+# build / expo
 dist
 build
 .expo
 .expo-shared
+web-build
 
 # OS
 .DS_Store
+
+# editor
+.vscode
+.idea
